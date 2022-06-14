@@ -1,0 +1,45 @@
+/*Body*/
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+/*NavBar*/
+
+.navbar-brand img{
+    height:25px;
+    width:86px;
+}
+
+/*Cards*/
+
+.antes {
+    color:gray;
+    text-decoration: line-through;
+    font-size: 18px;
+}
+
+.despues {
+    color: green;
+    font-size: 21px;
+}
+
+/*Footer*/
+
+footer h4 {
+    font-size: 21px;
+    font-weight: 300;
+}
+
+footer p{
+    font-size: 16px;
+}
+
+footer img {
+    height: 82px;
+    width: 119px;
+}
+
+.form-control-lg {
+    width: 90%;
+}
